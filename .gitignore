@@ -1,0 +1,19 @@
+# Build files
+*.exe
+*.o
+*.out
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+.DS_Store
+
+# Agent/Superpowers specific files
+docs/superpowers/
